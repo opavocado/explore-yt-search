@@ -15,15 +15,14 @@ Research and explore YT's API in order to find ways to solve these issues and en
 ## Steps
 1. ✔️ Read YT API Docs
 2. ✔️ Run Basic Query
-3. 🔨 Complete YTS - 1 API Exploration
-4. Explore filters and parameters
-5. List which issues can be solved and how
-6. Start a backlog of ideas, features and future enhacements
-7. Fix each issue
-8. Mockup a Frontend for the tool
-9. Design the architecture for the tool
-10. Build it
-11. Deploy it in GCP/AWS
+3. ✔️ Complete YTS - 1 API Exploration
+4. ✔️ List which issues can be solved and how (see ```YTS - 2 Core Use Cases.pynb```)
+5. ✔️ Start a backlog of ideas, features and future enhacements
+6. 🔨 Fix each issue (see ```YTS - 2 Core Use Cases.pynb```)
+7. Mockup a Frontend for the tool
+8. Design the architecture for the tool
+9. Build it
+10. Deploy it in GCP/AWS
 
 ## Open Questions
 - When to use video.list() and search.list()?
