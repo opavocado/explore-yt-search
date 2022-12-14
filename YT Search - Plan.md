@@ -19,6 +19,7 @@ Research and explore YT's API in order to find ways to solve these issues and en
 4. ✔️ List which issues can be solved and how (see ```YTS - 2 Core Use Cases.pynb```)
 5. ✔️ Start a backlog of ideas, features and future enhacements
 6. 🔨 Fix each issue (see ```YTS - 2 Core Use Cases.pynb```)
+    - Nice to have: explore free request methods (no key required)
 7. Mockup a Frontend for the tool
 8. Design the architecture for the tool
 9. Build it
